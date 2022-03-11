@@ -1,18 +1,16 @@
 {
-  "main.css": "/therobofriends/static/css/main.ad2d0677.chunk.css",
-  "main.js": "/therobofriends/static/js/main.4a88c214.chunk.js",
-  "main.js.map": "/therobofriends/static/js/main.4a88c214.chunk.js.map",
-  "static/js/1.7ab2393a.chunk.js": "/therobofriends/static/js/1.7ab2393a.chunk.js",
-  "static/js/1.7ab2393a.chunk.js.map": "/therobofriends/static/js/1.7ab2393a.chunk.js.map",
-  "static/css/2.40b18af0.chunk.css": "/therobofriends/static/css/2.40b18af0.chunk.css",
-  "static/js/2.c85a73f5.chunk.js": "/therobofriends/static/js/2.c85a73f5.chunk.js",
-  "static/js/2.c85a73f5.chunk.js.map": "/therobofriends/static/js/2.c85a73f5.chunk.js.map",
-  "runtime~main.js": "/therobofriends/static/js/runtime~main.0fc8ce87.js",
-  "runtime~main.js.map": "/therobofriends/static/js/runtime~main.0fc8ce87.js.map",
-  "static/media/App.css": "/therobofriends/static/media/SEGA.12a3db8b.woff",
-  "static/css/2.40b18af0.chunk.css.map": "/therobofriends/static/css/2.40b18af0.chunk.css.map",
-  "static/css/main.ad2d0677.chunk.css.map": "/therobofriends/static/css/main.ad2d0677.chunk.css.map",
-  "index.html": "/therobofriends/index.html",
-  "precache-manifest.70bb5291e7a1dfc0045ed85f21e68679.js": "/therobofriends/precache-manifest.70bb5291e7a1dfc0045ed85f21e68679.js",
-  "service-worker.js": "/therobofriends/service-worker.js"
+  "files": {
+    "main.css": "/therobofriends/static/css/main.af804219.css",
+    "main.js": "/therobofriends/static/js/main.8d2775ef.js",
+    "static/js/787.28cb0dcd.chunk.js": "/therobofriends/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SEGA.woff": "/therobofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/therobofriends/index.html",
+    "main.af804219.css.map": "/therobofriends/static/css/main.af804219.css.map",
+    "main.8d2775ef.js.map": "/therobofriends/static/js/main.8d2775ef.js.map",
+    "787.28cb0dcd.chunk.js.map": "/therobofriends/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af804219.css",
+    "static/js/main.8d2775ef.js"
+  ]
 }
